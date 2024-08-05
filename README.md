@@ -10,10 +10,18 @@ Olá! Sou Rodrigo Rahman, e há mais de duas décadas, venho me destacando na cr
 
 ## Especialidades
 
-- **Dart**
-- **Flutter**
-- **Go**
-- **Java**
+- **Dart**  
+  ![Dart](https://img.icons8.com/color/48/000000/dart.png)
+
+- **Flutter**  
+  ![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
+
+- **Go**  
+  ![Go](https://img.icons8.com/color/48/000000/golang.png)
+
+- **Java**  
+  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+
 
 ## Pacotes Open Source
 
