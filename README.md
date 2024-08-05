@@ -10,20 +10,14 @@ Olá! Sou Rodrigo Rahman, e há mais de duas décadas, venho me destacando na cr
 
 ## Especialidades
 
-- **Dart**  
-  ![Dart](https://img.icons8.com/color/48/000000/dart.png)
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
+  <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+</p>
 
-- **Flutter**  
-  ![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
-
-- **Go**  
-  ![Go](https://img.icons8.com/color/48/000000/golang.png)
-
-- **Java**  
-  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-
-
-## Pacotes Open Source
+## Pacotes Flutter e Dart Open Source
 
 - [flutter_getit](https://pub.dev/packages/flutter_getit)
 - [json_rest_server](https://pub.dev/packages/json_rest_server)
