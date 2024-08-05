@@ -4,7 +4,7 @@ Olá! Sou Rodrigo Rahman, e há mais de duas décadas, venho me destacando na cr
 
 ## Sobre Mim
 
-- **Google Developer Expert (GDE)**: Reconhecido pela Google como especialista em Flutter & Dart.
+- **Google Developer Expert (GDE)**: [Perfil de GDE](https://developers.google.com/profile/u/rodrigorhman) Reconhecido pela Google como especialista em Flutter & Dart.
 - **Professor**: Ministro o curso de Flutter de maior destaque do Brasil, com mais de 1500 alunos.
 - **Arquiteto de Sistemas e CEO Rahman Consultorias e Treinamentos**: Trabalho na Griks Software, onde lidero a arquitetura de sistemas e a inovação tecnológica.
 
