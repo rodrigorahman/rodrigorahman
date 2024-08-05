@@ -1,16 +1,45 @@
-## Hi there 👋
+# Bem-vindo ao GitHub de Rodrigo Rahman
 
-<!--
-**rodrigorahman/rodrigorahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou Rodrigo Rahman, e há mais de duas décadas, venho me destacando na criação de aplicações de alta performance, contribuindo significativamente para diversos setores. Minha experiência abrange o desenvolvimento de sistemas para grandes empresas, incluindo nomes renomados como Casas Bahia, CVC, BACEN, entre outras.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Google Developer Expert (GDE)**: Reconhecido pela Google como especialista em Flutter & Dart.
+- **Professor**: Ministro o curso de Flutter de maior destaque do Brasil, com mais de 1500 alunos.
+- **Arquiteto de Sistemas e CEO Rahman Consultorias e Treinamentos**: Trabalho na Griks Software, onde lidero a arquitetura de sistemas e a inovação tecnológica.
+
+## Especialidades
+
+- **Dart**
+- **Flutter**
+- **Go**
+- **Java**
+
+## Pacotes Open Source
+
+- [flutter_getit](https://pub.dev/packages/flutter_getit)
+- [json_rest_server](https://pub.dev/packages/json_rest_server)
+
+## YouTube
+
+Acompanhe meu [canal no YouTube](https://youtube.com/rodrigorahman) para vídeos novos toda semana sobre Flutter, Dart, e desenvolvimento de software em geral.
+
+## Redes Sociais
+
+- [Instagram](https://instagram.com/rodrigorahman.dev)
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-rahman/)
+- [X (antigo Twitter)](https://x.com/RodrigoRahman)
+
+## Contribuições
+
+Estou sempre buscando contribuir com a comunidade de desenvolvedores, seja através de código aberto, artigos técnicos ou como palestrante em eventos.
+
+## Contato
+
+- [Email](mailto:rodrigo@academiadoflutter.com.br)
+
+Sinta-se à vontade para explorar meus repositórios, contribuir com feedback ou entrar em contato para colaborações. Vamos criar algo incrível juntos!
+
+---
+
+⭐️ [Siga-me no GitHub](https://github.com/rodrigo-rahman) para acompanhar meus projetos mais recentes.
