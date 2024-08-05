@@ -10,7 +10,7 @@ Olá! Sou Rodrigo Rahman, e há mais de duas décadas, venho me destacando na cr
 
 ## Especialidades
 
-<p align="center">
+<p >
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
   <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go"/>
